@@ -94,15 +94,15 @@ Then open the local application URL provided by the Python server in a web brows
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+![Screenshot1](https://cdn.phototourl.com/free/2026-09-03-8eb6d218-0237-4ad5-a0c2-1462fa53f632.png)
 *Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
+![Screenshot2](https://cdn.phototourl.com/free/2026-09-03-ecb8b040-c9c1-4ed2-8f55-719b548da97d.png)
 *Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
+![Screenshot3](https://cdn.phototourl.com/free/2026-09-03-45bca98b-0585-4e3a-a51b-168cb841ad28.png)
 *Add caption explaining what this shows*
-
+![Screenshot4](https://cdn.phototourl.com/free/2026-09-03-4dbad111-74f7-4662-9292-c0f2ef2c6510.png)
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
 *Add caption explaining your workflow*
